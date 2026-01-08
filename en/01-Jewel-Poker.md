@@ -1,10 +1,10 @@
 ---
-title: Jewel Poker [01]
+title: Jewel Poker
 description: Official Rulebook v1.2
 version: 1.2
 ---
 
-# Jewel Poker [01]
+# [01] Jewel Poker
 **Version:** 1.2 | **Players:** 2–4 (Supports up to 12+)
 
 Welcome to the world of Jewel Poker, a strategic game of set collection, tactical dice manipulation, and pattern recognition.
