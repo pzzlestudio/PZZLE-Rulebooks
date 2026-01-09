@@ -25,6 +25,10 @@
   * [01: Jewel Poker](fr/01-Jewel-Poker.md)
   * [03: IXV](fr/03-IXV.md)
 
+* [ 🇮🇳 India (Hindi)](in/README.md)
+  * [01: Jewel Poker](in/01-Jewel-Poker.md)
+  * [03: IXV](in/03-IXV.md)
+
 * [ 🇮🇹 Italian (Italiano)](it/README.md)
   * [01: Jewel Poker](it/01-Jewel-Poker.md)
   * [03: IXV](it/03-IXV.md)
