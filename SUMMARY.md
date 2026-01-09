@@ -1,27 +1,23 @@
 # Table of Contents
 
 * [Welcome](README.md)
-* [License](LICENSE)
+* [License](./LICENSE)
 
 ---
 
-### 🇨🇳 Chinese (Simplified)
-* [首页 (Home)](cn/README.md)
+* [ 🇨🇳 Chinese (Simplified)](cn/README.md)
   * [01: Jewel Poker](cn/01-Jewel-Poker.md)
   * [03: IXV](cn/03-IXV.md)
 
-### 🇩🇪 German (Deutsch)
-* [Startseite (Home)](de/README.md)
+* [ 🇩🇪 German (Deutsch)](de/README.md)
   * [01: Jewel Poker](de/01-Jewel-Poker.md)
   * [03: IXV](de/03-IXV.md)
 
-### 🇺🇸 English
-* [Home](en/README.md)
+* [ 🇺🇸 English](en/README.md)
   * [01: Jewel Poker](en/01-Jewel-Poker.md)
   * [03: IXV](en/03-IXV.md)
 
-### 🇪🇸 Spanish (Español)
-* [Inicio (Home)](es/README.md)
+* [ 🇪🇸 Spanish (Español)](es/README.md)
   * [01: Jewel Poker](es/01-Jewel-Poker.md)
   * [03: IXV](es/03-IXV.md)
 
