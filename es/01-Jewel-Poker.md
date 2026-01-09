@@ -7,7 +7,7 @@ version: 1.2
 # [01] Jewel Poker
 **Versión:** 1.2 | **Jugadores:** 2–4 (Soporta hasta 12+)
 
-Bienvenido al mundo de Jewel Poker, un juego estratégicoที่ผสมผสาน Colección de Sets (Set Collection), Manipulación Táctica de Dados y Reconocimiento de Patrones (Pattern Recognition).
+Bienvenido al mundo de Jewel Poker, un juego estratégico Colección de Sets (Set Collection), Manipulación Táctica de Dados y Reconocimiento de Patrones (Pattern Recognition).
 
 ---
 
