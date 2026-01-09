@@ -36,7 +36,7 @@
   * [04: Jewel Challenge](fr/04-Jewel-Challenge.md)
   * [05: Jewel Stax](fr/05-Jewel-Stax.md).
 
-* [ 🇮🇳 India (Hindi)](in/README.md)
+* [ 🇮🇳 India (हिंदी)](in/README.md)
   * [01: Jewel Poker](in/01-Jewel-Poker.md)
   * [03: IXV](in/03-IXV.md)
   * [04: Jewel Challenge](in/04-Jewel-Challenge.md)
@@ -78,7 +78,7 @@
   * [04: Jewel Challenge](ru/04-Jewel-Challenge.md)
   * [05: Jewel Stax](ru/05-Jewel-Stax.md).
 
-* [ 🇹🇭 ภาษาไทย (Thai)](th/README.md)
+* [ 🇹🇭 Thai (ภาษาไทย)](th/README.md)
   * [01: Jewel Poker](th/01-Jewel-Poker.md)
   * [03: IXV](th/03-IXV.md)
   * [04: Jewel Challenge](th/04-Jewel-Challenge.md)
