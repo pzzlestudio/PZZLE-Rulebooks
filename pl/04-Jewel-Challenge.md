@@ -1,6 +1,6 @@
 ---
 title: Jewel Challenge
-description: Oficjalna Instrukcja v1.0 - Gra Taktyczna: Kontrola Obszarów i Dedukcja
+description: Oficjalna Instrukcja v1.0 - Gra Taktyczna Kontrola Obszarów i Dedukcja
 version: 1.0
 ---
 
