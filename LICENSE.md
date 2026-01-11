@@ -1,6 +1,6 @@
 Creative Commons Attribution 4.0 International Public License
 
-Copyright (c) 2024-2026 PZZLE Studio Co., Ltd..
+Copyright (c) 2024-2026 PZZLE Studio Co., Ltd.
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License").
 
