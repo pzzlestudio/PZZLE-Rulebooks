@@ -1,20 +1,46 @@
-Creative Commons Attribution 4.0 International Public License
+# License
 
-Copyright (c) 2024-2026 PZZLE Studio Co., Ltd.
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License").
+**Copyright (c) 2024-2026 PZZLE Studio Co., Ltd. All Rights Reserved.**
 
-1. Attribution:
-You must give appropriate credit to "PZZLE", provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+This repository contains the official rulebooks and documentation for **PZZLE**. The textual content is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)**.
 
-2. No Additional Restrictions:
-You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+---
 
-Full Legal Code can be found at: https://creativecommons.org/licenses/by/4.0/legalcode
+## Summary of Terms
 
------------------------------------------------------------
-SPECIAL NOTICES & TRADEMARK INFORMATION
------------------------------------------------------------
-1. BRAND & TRADEMARK: The name "PZZLE" and the PZZLE logo are trademarks of the Brand Owner. This license does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor.
+By exercising the Licensed Rights, you accept and agree to be bound by the following conditions:
 
-2. PATENTED TECHNOLOGY: The unique "DNA" format and its generation process used in PZZLE items are protected under existing patents. This license applies ONLY to the written rulebooks and documentation, not to the underlying patented technology or manufacturing processes.
+* **Attribution (BY):** You must give appropriate credit to **"PZZLE"**, provide a link to the license, and indicate if changes were made.
+* **Non-Commercial (NC):** You may **NOT** use this material for commercial purposes or monetary gain.
+* **ShareAlike (SA):** If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** (CC BY-NC-SA 4.0).
+
+---
+
+## Scope of License
+
+### What is Licensed:
+- This license applies **STRICTLY AND ONLY** to the **textual content** of the rulebooks, game mechanics descriptions, and official documentation found in this repository.
+
+### What is NOT Licensed (Rights Reserved):
+The following elements are **NOT** covered by the Creative Commons license and remain the exclusive property of **PZZLE Studio Co., Ltd.**:
+
+1.  **Visual Assets & Artwork:** All illustrations, character designs, 3D models, icons, UI/UX designs, and graphic layouts.
+2.  **Trademarks:** The name **"PZZLE"**, the PZZLE logo, and all related product and service names.
+3.  **Patented Technology:** The **"DNA" format**, its unique generation algorithms, and related manufacturing processes. These are protected under existing patents and intellectual property laws.
+
+---
+
+## How to Attribute
+
+If you use or adapt the rulebook text, please include the following attribution:
+
+> "This work is based on the PZZLE Rulebook by PZZLE Studio Co., Ltd., used under CC BY-NC-SA 4.0. [Link to your repository/website]"
+
+---
+
+## Full Legal Code
+
+The full text of the CC BY-NC-SA 4.0 license can be found at:  
+[https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
