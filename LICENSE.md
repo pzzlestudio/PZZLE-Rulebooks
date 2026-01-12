@@ -36,7 +36,7 @@ The following elements are **NOT** covered by the Creative Commons license and r
 
 If you use or adapt the rulebook text, please include the following attribution:
 
-> "This work is based on the PZZLE Rulebook by PZZLE Studio Co., Ltd., used under CC BY-NC-SA 4.0. [Link to your repository/website]"
+> "This work is based on the PZZLE Rulebook by PZZLE Studio Co., Ltd., used under CC BY-NC-SA 4.0."
 
 ---
 
