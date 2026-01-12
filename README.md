@@ -1,5 +1,8 @@
 # PZZLE: Official Rulebooks
-> **One Box, Endless Possibilities.** > Your portal to the latest rules, patch notes, and modular game variants.
+> **We believe that a perfect game     
+is one that evolves with its players.**
+
+> Your portal to the latest rules, patch notes, and modular game variants.
 
 Welcome to the **PZZLE Documentation Hub**. Our games are designed as software—modular, evolving, and always updated. Scan, select your language, and start playing.
 
