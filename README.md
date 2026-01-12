@@ -18,15 +18,15 @@ Welcome to the **PZZLE Documentation Hub**. Our games are designed as software�
 ---
 
 ## ⚙️ System Information
-- **Core Engine:** v1.0.0
-- **Supported Games:** 5+ Modules
-- **License:** [CC BY 4.0](./LICENSE)
+- **Core Engine:** v1.1.0
+- **Supported Games:** 7+ Games
+- **License:** [CC BY-NC-SA 4.0](LICENSE.md)
 
 ---
 ### 🛠️ How to use this Documentation
 1. **Find your game:** Use the sidebar or links above to find the specific rulebook.
 2. **Check Version:** Each game has a version number. If it differs from your printed card, the digital version is the most balanced.
-3. **Feedback:** Found a bug in the rules? Contact our dev team via [Support Hub](https://www.facebook.com/pzzletarot).
+3. **Feedback:** Found a bug in the rules? Contact our dev team via [Support Hub](https://linktr.ee/pzzle).
 
 > Copyright © 2026 **PZZLE Studio Co.,Ltd.**. All rights reserved.
 > DNA Format are Protected Intellectual Property.
