@@ -1,8 +1,6 @@
 # PZZLE: Official Rulebooks
 > **We believe that a perfect game     
-is one that evolves with its players.**
-
-> Your portal to the latest rules, patch notes, and modular game variants.
+    is one that evolves with its players.**
 
 Welcome to the **PZZLE Documentation Hub**. Our games are designed as software—modular, evolving, and always updated. Scan, select your language, and start playing.
 
@@ -20,7 +18,7 @@ Welcome to the **PZZLE Documentation Hub**. Our games are designed as software�
 
 ---
 
-## ⚙️ System Information
+## ⚙️ Platform Information
 - **Core Engine:** v1.1.0
 - **Supported Games:** 7+ Games
 - **License:** [CC BY-NC-SA 4.0](LICENSE.md)
