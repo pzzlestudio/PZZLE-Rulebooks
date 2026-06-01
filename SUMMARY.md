@@ -121,7 +121,7 @@
   * [04: Jewel Challenge](th/04-Jewel-Challenge.md)
   * [05: Jewel Stax](th/05-Jewel-Stax.md)
   * [06: 9 Cards Stax](th/06-Nine-Cards-Stax.md)
-  * [07: PZZLE Quintet](th/07-PZZLE-Quintet.md).
+  * [07: Jewel Pocket](th/07-Jewel-Pocket.md).
 
 * [ 🇹🇼 Chinese (Traditional)](tw/README.md)
   * [01: Jewel Poker](tw/01-Jewel-Poker.md)
