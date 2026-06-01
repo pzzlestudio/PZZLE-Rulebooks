@@ -30,7 +30,7 @@
   * [04: Jewel Challenge](en/04-Jewel-Challenge.md)
   * [05: Jewel Stax](en/05-Jewel-Stax.md)
   * [06: 9 Cards Stax](en/06-Nine-Cards-Stax.md)
-  * [07: PZZLE Quintet](en/07-PZZLE-Quintet.md).
+  * [07: Jewel Pocket](en/07-Jewel-Pocket.md).
 
 
 * [ 🇪🇸 Spanish (Español)](es/README.md)
