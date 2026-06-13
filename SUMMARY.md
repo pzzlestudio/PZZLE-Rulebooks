@@ -76,7 +76,7 @@
   * [04: Jewel Challenge](jp/04-Jewel-Challenge.md)
   * [05: Jewel Stax](jp/05-Jewel-Stax.md)
   * [06: 9 Cards Stax](jp/06-Nine-Cards-Stax.md)
-  * [07: PZZLE Pocket](jp/07-Jewel-Pocket.md).
+  * [07: Jewel Pocket](jp/07-Jewel-Pocket.md)
 
 * [ 🇰🇷 Korean (한국어))](kr/README.md)
   * [01: Jewel Poker](kr/01-Jewel-Poker.md)
