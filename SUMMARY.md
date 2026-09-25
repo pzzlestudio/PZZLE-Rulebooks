@@ -30,7 +30,9 @@
   * [04: Jewel Challenge](en/04-Jewel-Challenge.md)
   * [05: Jewel Stax](en/05-Jewel-Stax.md)
   * [06: 9 Cards Stax](en/06-Nine-Cards-Stax.md)
-  * [07: Jewel Pocket](en/07-Jewel-Pocket.md).
+  * [07: Jewel Pocket](en/07-Jewel-Pocket.md)
+  * [08: Doubt Colour](en/08-Doubt-Colour.md)
+  * [09: Doubt Jewel](en/09-Doubt-Jewel.md).
 
 
 * [ 🇪🇸 Spanish (Español)](es/README.md)
@@ -121,7 +123,9 @@
   * [04: Jewel Challenge](th/04-Jewel-Challenge.md)
   * [05: Jewel Stax](th/05-Jewel-Stax.md)
   * [06: 9 Cards Stax](th/06-Nine-Cards-Stax.md)
-  * [07: Jewel Pocket](th/07-Jewel-Pocket.md).
+  * [07: Jewel Pocket](th/07-Jewel-Pocket.md)
+  * [08: Doubt Colour](th/08-Doubt-Colour.md)
+  * [09: Doubt Jewel](th/09-Doubt-Jewel.md).
 
 * [ 🇹🇼 Chinese (Traditional)](tw/README.md)
   * [01: Jewel Poker](tw/01-Jewel-Poker.md)
