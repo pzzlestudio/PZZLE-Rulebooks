@@ -20,6 +20,7 @@
   * [04: Jewel Challenge](de/04-Jewel-Challenge.md)
   * [05: Jewel Stax](de/05-Jewel-Stax.md)
   * [06: 9 Cards Stax](de/06-Nine-Cards-Stax.md)
+  * [07: Jewel Pocket](en/07-Jewel-Pocket.md)
 
 * [ 🇺🇸 English](en/README.md)
   * [01: Jewel Poker](en/01-Jewel-Poker.md)
