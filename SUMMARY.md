@@ -31,7 +31,10 @@
   * [06: 9 Cards Stax](en/06-Nine-Cards-Stax.md)
   * [07: Jewel Pocket](en/07-Jewel-Pocket.md)
   * [08: Doubt Colour](en/08-Doubt-Colour.md)
-  * [09: Doubt Jewel](en/09-Doubt-Jewel.md).
+  * [09: Doubt Jewel](en/09-Doubt-Jewel.md)
+  * [10: Essen Dice](en/10-Essen-Dice.md)
+  * [11: Berlin Wheel](en/11-Berlin-Wheel.md)
+  * [12: Prague Panorama](en/12-Prague-Panorama.md)
 
 
 * [ 🇪🇸 Spanish (Español)](es/README.md)
@@ -116,7 +119,10 @@
   * [06: 9 Cards Stax](th/06-Nine-Cards-Stax.md)
   * [07: Jewel Pocket](th/07-Jewel-Pocket.md)
   * [08: Doubt Colour](th/08-Doubt-Colour.md)
-  * [09: Doubt Jewel](th/09-Doubt-Jewel.md).
+  * [09: Doubt Jewel](th/09-Doubt-Jewel.md)
+  * [10: Essen Dice](th/10-Essen-Dice.md)
+  * [11: Berlin Wheel](th/11-Berlin-Wheel.md)
+  * [12: Prague Panorama](th/12-Prague-Panorama.md)
 
 * [ 🇹🇼 Chinese (Traditional)](tw/README.md)
   * [01: Jewel Poker](tw/01-Jewel-Poker.md)
